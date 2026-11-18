@@ -1,0 +1,6 @@
+{
+  "name": "Jaypee Greens",
+  "description": "Offline 18-hole golf scorecard and handicap calculator for Jaypee Greens Golf Club (Greg Norman Course).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
